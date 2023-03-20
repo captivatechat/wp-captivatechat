@@ -52,7 +52,10 @@ function captivate_widget_settings_init() {
 
 // Render the plugin settings page.
 function captivate_widget_render_settings_page() {
-  update_option('captivate_widget_api_key', $_POST['captivate_widget_api_key']);
+  if (isset($_POST['update_settings'])) {
+    update_option('captivate_widget_api_key', sanitize_text_field($_POST['captivate_widget_api_key']));
+  }
+  $api_key = get_option('captivate_widget_api_key');
   captivate_widget_add_script();
 ?>
   <div class="wrap">
