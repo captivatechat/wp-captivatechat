@@ -61,8 +61,9 @@ function captivate_widget_render_settings_page() {
   <div class="wrap">
   <img src="<?php echo plugin_dir_url( __FILE__ ) . 'img/captivate.png'; ?>" alt="Captivate Chat">
     <h2>Captivate Widget Settings</h2>
-    
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/PJhJo_VGTp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
     <p>To obtain your Widget API Key, go to <a href='https://hub.captivat.io'>Captivate Chat</a>, click on your hub, copy the API key, and paste it into the field.<br>
+    <strong>Important:</strong> You must have a Captivate Chat account to use this plugin.
     </p>
     <form method="post" action="options.php">
       <?php settings_fields('captivate_widget_options_group'); ?>
