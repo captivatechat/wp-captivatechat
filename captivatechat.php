@@ -5,7 +5,6 @@
  * Version: 0.0.1
  * Author: Captivate IO Ltd
  * Author URI: https://www.captivatechat.com
- * Description: This plugin allows you to add Captivate Widget to your WordPress
  * License: GPL2
  */
 

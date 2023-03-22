@@ -15,7 +15,7 @@ This plugin allows you to add Captivate Widget to your WordPress
 
 == Installation ==
 
-1. Upload `wp-captivate` directory to the `/wp-content/plugins/` directory
+1. Upload `captivatechat` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Configure plugin (go to the Settings/Captivate Chat Plugin for WordPress)
 
