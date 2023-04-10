@@ -23,6 +23,11 @@ In addition to its advanced features and flexibility, Captivate Chat is also inc
 
 Overall, if you're looking for a powerful, versatile, and user-friendly platform to connect your omnichannels to popular live chat platforms like Microsoft Teams and Slack, Captivate Chat is the perfect solution for you. So why wait? [Sign up now](https://hub.captivatechat.com/user/signup) today and start streamlining your customer interactions like never before!
 
+== Screenshots ==
+
+1. Captivate Chat Settings on WordPress.
+2. Captivate Chat Web Widget connected to WordPress communicating on Teams.
+
 == Installation ==
 
 1. Upload `captivatechat` directory to the `/wp-content/plugins/` directory
